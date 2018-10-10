@@ -13,6 +13,7 @@ nav {
     padding-left: 5px;
     padding-bottom: 5px;
     padding-top: 5px;
+    z-index: 2;
 }
 nav a{
     color: aliceblue;
@@ -35,7 +36,8 @@ nav a{
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
 	text-align: center;
-	color: #ffffff;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
 }
 #profielfoto {
     display: block;
@@ -118,4 +120,196 @@ iframe {
     width: 80%;
     height: 50%;
 
+}
+#theorie {
+    background-color: #668284;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    overflow: auto;
+    margin-top: 20px;
+}
+#theorie h1 {
+    text-align: center;
+    font-size: 40px;
+}
+#theorie h2{
+    display: block;
+    margin-left: 2.5%;
+    margin-right: auto;
+    font-size: 20px;
+}
+#theorie img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 15%;
+}
+#theorie p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    font-size: 20px;
+    margin-top: -12px;
+}
+#prestatiemotivatie {
+    background-color: #668284;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    overflow: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#prestatiemotivatie h1 {
+    text-align: center;
+    font-size: 40px;
+}
+#prestatiemotivatie h2{
+    display: block;
+    margin-left: 2.5%;
+    margin-right: auto;
+    font-size: 20px;
+}
+#prestatiemotivatie p {
+    margin-top: -12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    font-size: 20px;
+}
+#belangrijkeCarrièreankers {
+    background-color: #668284;
+    display: block;
+    float: left;
+    width: 49%;
+    height: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    overflow: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#belangrijkeCarrièreankers h1 {
+    text-align: center;
+    font-size: 40px;
+ }
+ #belangrijkeCarrièreankers h2{
+    display: block;
+    margin-left: 2.5%;
+    margin-right: auto;
+    font-size: 20px;
+}
+#belangrijkeCarrièreankers p {
+    margin-top: -12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    font-size: 20px;
+}
+#onbelangrijkeCarrièreankers {
+    background-color: #668284;
+    display: block;
+    float: right;
+    width: 49%;
+    height: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    overflow: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 300px;
+}
+#onbelangrijkeCarrièreankers h1 {
+    text-align: center;
+    font-size: 40px;
+ }
+#onbelangrijkeCarrièreankers h2{
+    display: block;
+    margin-left: 2.5%;
+    margin-right: auto;
+    font-size: 20px;
+}
+#onbelangrijkeCarrièreankers p {
+    margin-top: -12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    font-size: 20px;
+}
+#conclusie {
+    background-color: #668284;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    overflow: auto;
+    margin-top: 20px;
+}
+#conclusie h1 {
+    text-align: center;
+    font-size: 40px;
+}
+#conclusie h2{
+    display: block;
+    margin-left: 2.5%;
+    margin-right: auto;
+    font-size: 20px;
+}
+#conclusie p {
+    margin-top: -12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    font-size: 20px;
+}
+#conclusie ul {
+    margin-top: -12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    font-size: 20px;
+}
+#bronnenlijst {
+    background-color: #668284;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    overflow: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#bronnenlijst h1{
+    text-align: center;
+    font-size: 40px;
+}
+#bronnenlijst ol{
+    text-align: left;
+    margin-left: 20px;
+    color: aliceblue;
+    padding-left: 20px;
+    font-style: normal;
+    font-size: 20px;
 }
