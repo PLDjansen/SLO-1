@@ -313,3 +313,123 @@ iframe {
     font-style: normal;
     font-size: 20px;
 }
+#Beroepsbeeld {
+    background-color: #668284;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    overflow: auto;
+    margin-top: 20px;
+}
+#Beroepsbeeld h1 {
+    text-align: center;
+    font-size: 40px;
+}
+#Beroepsbeeld h2{
+    display: block;
+    margin-left: 2.5%;
+    margin-right: auto;
+    font-size: 20px;
+}
+#Beroepsbeeld p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    font-size: 20px;
+    margin-top: -12px;
+}
+#Foto_Conclusion img {
+    display: block;
+    float: right;
+    width: 25%;
+    height: 15%;
+    margin: 3px;
+    margin-right: 10px;
+    margin-top: 12px;
+}
+#Foto_presentatie_Avanade img{
+    display: block;
+    float: left;
+    width: 49%;
+    height: 50%;
+    overflow: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#Foto_kraam img{
+    display: block;
+    float: right;
+    width: 49%;
+    overflow: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#Foto_your_surprise img {
+    display: block;
+    float: left;
+    width: 49%;
+    overflow: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#Foto_taskboard img{
+    display: block;
+    float: right;
+    width: 49%;
+    overflow: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#Foto_omoda img {
+    display: block;
+    float: left;
+    width: 49%;
+    overflow: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#Foto_band img{
+    display: block;
+    float: right;
+    width: 49%;
+    overflow: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#Foto_kantoor img {
+    display: block;
+    float: left;
+    width: 49%;
+    overflow: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#Foto_scrum img{
+    display: block;
+    float: right;
+    width: 49%;
+    overflow: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#Foto_system img {
+    display: block;
+    float: left;
+    width: 49%;
+    overflow: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#Foto_visueel img{
+    display: block;
+    float: right;
+    width: 49%;
+    overflow: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
